@@ -74,6 +74,14 @@ Computer Science student focused on **Data Engineering, Cloud Infrastructure, an
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,dynamodb,redshift,Qdrant,Groq,huggingface,bedrock" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
+
 ### 🛠️ Tools & Ecosystem
 
 <p align="left">
