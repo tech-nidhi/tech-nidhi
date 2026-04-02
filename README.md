@@ -71,7 +71,7 @@ Computer Science student focused on **Data Engineering, Cloud Infrastructure, an
 ### 🗄️ AI/ML ,Databases & Storage
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,dyanmoDB,redshift,Qdrant,Groq,huggingface,bedrock" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,dyanmodb,redshift,Qdrant,Groq,huggingface,bedrock" />
 </p>
 
 ### 🛠️ Tools & Ecosystem
