@@ -103,7 +103,7 @@ Computer Science student focused on **Data Engineering, Cloud Infrastructure, an
 
 <div align="center">
 
-<img src="WhatsApp Image 2026-04-02 at 10.19.05.jpeg" height="110"/>
+<img src="WhatsApp_Image_2026-04-02_at_10.18.55__1_-removebg-preview.png" height="110"/>
 <img src="WhatsApp Image 2026-04-02 at 10.18.55.png" height="110"/>
 <img src="servicenow-certified-system-administrator-csa.png" height="110"/>
 <img src="WhatsApp Image 2026-04-02 at 11.13.42.jpeg" height="110">
