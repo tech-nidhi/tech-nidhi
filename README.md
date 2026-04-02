@@ -104,7 +104,7 @@ Computer Science student focused on **Data Engineering, Cloud Infrastructure, an
 <div align="center">
 
 <img src="AI.png" height="110"/>
-<img src="DE.png" height="110"/>
+<img src="DE-Photoroom.png" height="110"/>
 <img src="servicenow-certified-system-administrator-csa.png" height="110"/>
 <img src="WhatsApp Image 2026-04-02 at 11.13.42.jpeg" height="110">
 <img src="aws-knowledge-cloud-essentials.png" height="110"/>
